@@ -22,3 +22,5 @@ namespace Zadatak
                 .UseStartup<Startup>();
     }
 }
+
+
